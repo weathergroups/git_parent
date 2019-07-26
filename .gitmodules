@@ -1,0 +1,3 @@
+[submodule "mymodule"]
+	path = mymodule
+	url = https://github.com/weathergroups/git_child.git
